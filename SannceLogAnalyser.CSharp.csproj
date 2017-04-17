@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\LogMotionEntry.cs" />
     <Compile Include="Assets\Scripts\LogParser.cs" />
     <Compile Include="Assets\Scripts\Test.cs" />
   </ItemGroup>

@@ -1,0 +1,82 @@
+0000    17-04-2017 15:53:40    Clear Log             
+0001    17-04-2017 15:54:41    Save Configuration    Motion Detect
+0002    17-04-2017 15:58:43    Log In                admin<Web:0.0.0.0>
+0003    17-04-2017 15:58:44    Log Out               admin<Web:0.0.0.0>
+0004    17-04-2017 15:58:58    Log In                admin<Web:0.0.0.0>
+0005    17-04-2017 15:58:59    Log Out               admin<Web:0.0.0.0>
+0006    17-04-2017 16:00:03    Log Out               admin<Web:0.0.0.0>
+0007    17-04-2017 16:08:43    Log In                admin<Web:0.0.0.0>
+0008    17-04-2017 16:08:46    Log Out               admin<Web:0.0.0.0>
+0009    17-04-2017 16:08:47    Log In                admin<Web:0.0.0.0>
+0010    17-04-2017 16:08:47    Set Time              2017-04-17 16:08:48
+0011    17-04-2017 16:08:56    Log In                admin<Web:0.0.0.0>
+0012    17-04-2017 16:08:57    Log Out               admin<Web:0.0.0.0>
+0013    17-04-2017 16:10:44    Log Out               admin<Web:0.0.0.0>
+0014    17-04-2017 17:05:33    Log In                admin<Web:0.0.0.0>
+0015    17-04-2017 17:05:40    Log In                admin<Web:0.0.0.0>
+0016    17-04-2017 17:05:41    Log Out               admin<Web:0.0.0.0>
+0017    17-04-2017 17:08:18    Log Out               admin<Web:0.0.0.0>
+0018    17-04-2017 18:41:38    Log In                admin<Web:0.0.0.0>
+0019    17-04-2017 18:41:45    Log In                admin<Web:0.0.0.0>
+0020    17-04-2017 18:41:46    Log Out               admin<Web:0.0.0.0>
+0021    17-04-2017 18:42:16    Log Out               admin<Web:0.0.0.0>
+0022    17-04-2017 18:45:40    Log In                admin<Web:0.0.0.0>
+0023    17-04-2017 18:45:40    Set Time              2017-04-17 18:45:41
+0024    17-04-2017 18:45:49    Log In                admin<Web:0.0.0.0>
+0025    17-04-2017 18:45:50    Log Out               admin<Web:0.0.0.0>
+0026    17-04-2017 18:46:33    Log Out               admin<Web:0.0.0.0>
+0027    17-04-2017 19:59:57    Log In                admin<Web:0.0.0.0>
+0028    17-04-2017 19:59:57    Set Time              2017-04-17 19:59:58
+0029    17-04-2017 20:00:05    Log In                admin<Web:0.0.0.0>
+0030    17-04-2017 20:00:06    Log Out               admin<Web:0.0.0.0>
+0031    17-04-2017 20:15:34    Log In                admin<Web:0.0.0.0>
+0032    17-04-2017 20:15:35    Log Out               admin<Web:0.0.0.0>
+0033    17-04-2017 20:16:02    Log In                admin<Web:0.0.0.0>
+0034    17-04-2017 20:16:03    Log Out               admin<Web:0.0.0.0>
+0035    17-04-2017 20:20:42    Log In                admin<Web:0.0.0.0>
+0036    17-04-2017 20:20:43    Log Out               admin<Web:0.0.0.0>
+0037    17-04-2017 20:21:19    Log In                admin<Web:0.0.0.0>
+0038    17-04-2017 20:21:20    Log Out               admin<Web:0.0.0.0>
+0039    17-04-2017 20:21:50    Log Out               admin<Web:0.0.0.0>
+0040    17-04-2017 20:24:36    Log In                admin<Web:0.0.0.0>
+0041    17-04-2017 20:24:43    Log In                admin<Web:0.0.0.0>
+0042    17-04-2017 20:24:45    Log Out               admin<Web:0.0.0.0>
+0043    17-04-2017 20:26:37    Log Out               admin<Web:0.0.0.0>
+0044    17-04-2017 20:51:32    Log In                admin<Web:0.0.0.0>
+0045    17-04-2017 20:51:39    Log In                admin<Web:0.0.0.0>
+0046    17-04-2017 20:51:40    Log Out               admin<Web:0.0.0.0>
+0047    17-04-2017 20:52:13    Log In                admin<Web:0.0.0.0>
+0048    17-04-2017 20:52:14    Log Out               admin<Web:0.0.0.0>
+0049    17-04-2017 20:54:00    Log In                admin<Web:0.0.0.0>
+0050    17-04-2017 20:54:01    Log Out               admin<Web:0.0.0.0>
+0051    17-04-2017 20:54:31    Log In                admin<Web:0.0.0.0>
+0052    17-04-2017 20:54:32    Log Out               admin<Web:0.0.0.0>
+0053    17-04-2017 20:55:15    Log In                admin<Web:0.0.0.0>
+0054    17-04-2017 20:55:16    Log Out               admin<Web:0.0.0.0>
+0055    17-04-2017 20:55:48    Save Configuration    Motion Detect
+0056    17-04-2017 20:56:34    Log In                admin<Web:0.0.0.0>
+0057    17-04-2017 20:56:35    Log Out               admin<Web:0.0.0.0>
+0058    17-04-2017 20:56:52    Log In                admin<Web:0.0.0.0>
+0059    17-04-2017 20:56:53    Log Out               admin<Web:0.0.0.0>
+0060    17-04-2017 20:58:57    Save Configuration    Motion Detect
+0061    17-04-2017 21:02:41    Log In                admin<Web:0.0.0.0>
+0062    17-04-2017 21:02:42    Log Out               admin<Web:0.0.0.0>
+0063    17-04-2017 21:04:32    Log In                admin<Web:0.0.0.0>
+0064    17-04-2017 21:04:33    Log Out               admin<Web:0.0.0.0>
+0065    17-04-2017 21:05:29    Log In                admin<Web:0.0.0.0>
+0066    17-04-2017 21:05:30    Log Out               admin<Web:0.0.0.0>
+0067    17-04-2017 21:06:01    Log In                admin<Web:0.0.0.0>
+0068    17-04-2017 21:06:02    Log Out               admin<Web:0.0.0.0>
+0069    17-04-2017 21:06:59    Save Configuration    Motion Detect
+0070    17-04-2017 21:07:08    Alarm Start           Motion Detect, Channel 4
+0071    17-04-2017 21:07:09    Alarm Stop            Motion Detect, Channel 4
+0072    17-04-2017 21:07:25    Alarm Start           Motion Detect, Channel 4
+0073    17-04-2017 21:07:25    Alarm Stop            Motion Detect, Channel 4
+0074    17-04-2017 21:07:27    Alarm Start           Motion Detect, Channel 4
+0075    17-04-2017 21:07:27    Alarm Stop            Motion Detect, Channel 4
+0076    17-04-2017 21:07:50    Alarm Start           Motion Detect, Channel 4
+0077    17-04-2017 21:07:50    Alarm Stop            Motion Detect, Channel 4
+0078    17-04-2017 21:08:00    Alarm Start           Motion Detect, Channel 4
+0079    17-04-2017 21:08:00    Alarm Stop            Motion Detect, Channel 4
+0080    17-04-2017 21:08:16    Alarm Start           Motion Detect, Channel 4
+0081    17-04-2017 21:08:16    Alarm Stop            Motion Detect, Channel 4
