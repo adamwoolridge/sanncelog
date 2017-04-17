@@ -8,9 +8,17 @@ using System.Globalization;
 
 public static class LogParser
 {
+    public static string [] channelNames =
+    {
+        "Driveway",
+        "Front",
+        "Door",
+        "Garden",
+    };
+
     public static void Test()
     {
-        string path = Application.dataPath;       
+        string path = Application.dataPath;
         path += "/../";
 
         Debug.Log("Exe path: " + path);
@@ -18,8 +26,8 @@ public static class LogParser
         string[] files = System.IO.Directory.GetFiles(path, "*.txt");
 
         Dictionary<int, LogMotionEntry> openChannelLogs = new Dictionary<int, LogMotionEntry>();
-
         Dictionary<int, List<LogMotionEntry>> channelLogs = new Dictionary<int, List<LogMotionEntry>>();
+        List<LogMotionEntry> combinedLogs = new List<LogMotionEntry>();
 
         foreach (string fileName in files)
         {
@@ -49,30 +57,37 @@ public static class LogParser
 
                     if (openChannelLogs.TryGetValue(channel, out lme))
                     {
-                        lme.end = DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);                        
+                        lme.end = DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);
                         openChannelLogs.Remove(channel);
                     }
-                    
-                    if (lme!=null)
+
+                    if (lme != null)
                     {
                         List<LogMotionEntry> channelEntries;
 
                         if (!channelLogs.TryGetValue(channel, out channelEntries))
                         {
                             channelEntries = new List<LogMotionEntry>();
-                            channelLogs.Add(channel, channelEntries);                            
+                            channelLogs.Add(channel, channelEntries);
                         }
 
                         channelEntries.Add(lme);
-                    }                    
+                        combinedLogs.Add(lme);
+                    }
                 }
             }
         }
 
         foreach (KeyValuePair<int, List<LogMotionEntry>> channelLog in channelLogs)
         {
-            Debug.Log("Channel " + channelLog.Key + ": " + channelLog.Value.Count + " log entries");
-        }        
+            Debug.Log(channelNames[channelLog.Key-1] + " (" + channelLog.Key + "): " + channelLog.Value.Count + " log entries");
+        }
+
+        if (combinedLogs.Count > 0)
+        { 
+            Debug.Log("First entry: " + combinedLogs[0].start);
+            Debug.Log("Last entry: " + combinedLogs[combinedLogs.Count - 1].start);
+        }
     }
 }
 
