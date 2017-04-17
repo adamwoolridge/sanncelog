@@ -8,15 +8,20 @@ using System.Globalization;
 
 public static class LogParser
 {
+    public static Dictionary<int, LogMotionEntry> openChannelLogs;
+    public static Dictionary<int, List<LogMotionEntry>> channelLogs;
+    public static Dictionary<DateTime, List<LogMotionEntry>> dailyLogs;
+    public static List<LogMotionEntry> combinedLogs;
+
     public static string [] channelNames =
     {
         "Driveway",
-        "Front",
-        "Door",
-        "Garden",
+        "Front Street",
+        "Front Door",
+        "Back Garden",
     };
 
-    public static void Test()
+    public static void ParseAll()
     {
         string path = Application.dataPath;
         path += "/../";
@@ -25,9 +30,10 @@ public static class LogParser
 
         string[] files = System.IO.Directory.GetFiles(path, "*.txt");
 
-        Dictionary<int, LogMotionEntry> openChannelLogs = new Dictionary<int, LogMotionEntry>();
-        Dictionary<int, List<LogMotionEntry>> channelLogs = new Dictionary<int, List<LogMotionEntry>>();
-        List<LogMotionEntry> combinedLogs = new List<LogMotionEntry>();
+        openChannelLogs = new Dictionary<int, LogMotionEntry>();
+        channelLogs = new Dictionary<int, List<LogMotionEntry>>();
+        dailyLogs = new Dictionary<DateTime, List<LogMotionEntry>>();
+        combinedLogs = new List<LogMotionEntry>();
 
         foreach (string fileName in files)
         {
@@ -58,6 +64,7 @@ public static class LogParser
                     if (openChannelLogs.TryGetValue(channel, out lme))
                     {
                         lme.end = DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);
+                        lme.duration = (lme.end - lme.start).Seconds;
                         openChannelLogs.Remove(channel);
                     }
 
@@ -73,6 +80,16 @@ public static class LogParser
 
                         channelEntries.Add(lme);
                         combinedLogs.Add(lme);
+
+                        List<LogMotionEntry> dailyList;
+
+                        if (!dailyLogs.TryGetValue(lme.start.Date, out dailyList))
+                        {
+                            dailyList = new List<LogMotionEntry>();
+                            dailyLogs.Add(lme.start.Date, dailyList);
+                        }
+
+                        dailyList.Add(lme);
                     }
                 }
             }

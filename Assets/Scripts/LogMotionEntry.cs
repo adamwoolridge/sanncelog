@@ -8,4 +8,5 @@ public class LogMotionEntry
     public DateTime start;
     public DateTime end;
     public int channel;
+    public int duration;
 }
