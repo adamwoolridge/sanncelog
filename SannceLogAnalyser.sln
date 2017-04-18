@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SannceLogAnalyser.CSharp", "SannceLogAnalyser.CSharp.csproj", "{D39D514A-AF76-164C-680C-B2071DAD11B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SannceLogAnalyser.CSharp.Editor", "SannceLogAnalyser.CSharp.Editor.csproj", "{BF44382B-5271-9C9D-DA16-429EB9984375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{D39D514A-AF76-164C-680C-B2071DAD11B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D39D514A-AF76-164C-680C-B2071DAD11B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D39D514A-AF76-164C-680C-B2071DAD11B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF44382B-5271-9C9D-DA16-429EB9984375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF44382B-5271-9C9D-DA16-429EB9984375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF44382B-5271-9C9D-DA16-429EB9984375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF44382B-5271-9C9D-DA16-429EB9984375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
