@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class UITimeBlock : MonoBehaviour
 {
     public Text TextTriggerCount;
+    public Image ImageAlert;
 
     int triggerCount = 0;
     
@@ -13,13 +14,19 @@ public class UITimeBlock : MonoBehaviour
     {
         triggerCount++;
         TextTriggerCount.color = textColor;
-        TextTriggerCount.text = triggerCount.ToString();
+        TextTriggerCount.text = triggerCount.ToString();        
         return triggerCount;
     }	
     
-    public void ClearTriggerCount()
+    public void Reset()
     {
         triggerCount = 0;
         TextTriggerCount.text = "";
+        ImageAlert.enabled = false;
     }		
+
+    public void ShowAlert()
+    {
+        ImageAlert.enabled = true;
+    }
 }

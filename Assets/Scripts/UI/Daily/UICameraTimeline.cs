@@ -46,7 +46,7 @@ public class UICameraTimeline : MonoBehaviour
         foreach (Transform t in TimeBlockParent)
         {
             t.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
-            t.GetComponent<UITimeBlock>().ClearTriggerCount();
+            t.GetComponent<UITimeBlock>().Reset();
             seriesData.Add(new Vector2(i, 0));
             i++;
         }
@@ -61,13 +61,18 @@ public class UICameraTimeline : MonoBehaviour
                 {
                     int index = entry.start.Hour;
 
-                    TimeBlockParent.GetChild(index).transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);
+                    UITimeBlock timeBLock = TimeBlockParent.GetChild(index).GetComponent<UITimeBlock>();
+
+                    timeBLock.transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);
                     Vector2 sd = seriesData[index];
-                    sd.y = TimeBlockParent.GetChild(index).GetComponent<UITimeBlock>().IncreaseTriggerCount(Colours[channel-1]);                    
+                    sd.y = timeBLock.IncreaseTriggerCount(Colours[channel-1]);                    
                     seriesData[index] = sd;
 
                     if ((int)sd.y > highest)
                         highest = (int)sd.y;
+
+                    if (entry.duration > 5)
+                        timeBLock.ShowAlert();
                 }               
             }
         }
