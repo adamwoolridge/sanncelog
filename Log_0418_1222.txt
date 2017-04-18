@@ -947,3 +947,337 @@
 0946    18-04-2017 08:02:21    Alarm Stop            Motion Detect, Channel 3
 0947    18-04-2017 08:02:27    Log In                admin<Web:0.0.0.0>
 0948    18-04-2017 08:02:28    Log Out               admin<Web:0.0.0.0>
+0949    18-04-2017 08:02:43    Export log            1425097156C96501FB4DE33A626A9D52(English)
+0950    18-04-2017 08:03:05    Log Out               admin<Web:0.0.0.0>
+0951    18-04-2017 08:05:35    Log In                admin<Web:0.0.0.0>
+0952    18-04-2017 08:05:41    Log In                admin<Web:0.0.0.0>
+0953    18-04-2017 08:05:42    Log Out               admin<Web:0.0.0.0>
+0954    18-04-2017 08:06:06    Alarm Start           Motion Detect, Channel 2
+0955    18-04-2017 08:06:06    Alarm Start           Motion Detect, Channel 3
+0956    18-04-2017 08:06:07    Alarm Start           Motion Detect, Channel 1
+0957    18-04-2017 08:06:07    Alarm Stop            Motion Detect, Channel 2
+0958    18-04-2017 08:06:08    Alarm Stop            Motion Detect, Channel 1
+0959    18-04-2017 08:06:08    Alarm Stop            Motion Detect, Channel 3
+0960    18-04-2017 08:08:51    Log Out               admin<Web:0.0.0.0>
+0961    18-04-2017 08:10:21    Alarm Start           Motion Detect, Channel 2
+0962    18-04-2017 08:10:21    Alarm Start           Motion Detect, Channel 3
+0963    18-04-2017 08:10:22    Alarm Start           Motion Detect, Channel 1
+0964    18-04-2017 08:10:22    Alarm Stop            Motion Detect, Channel 2
+0965    18-04-2017 08:10:23    Alarm Stop            Motion Detect, Channel 1
+0966    18-04-2017 08:10:23    Alarm Stop            Motion Detect, Channel 3
+0967    18-04-2017 08:14:34    Alarm Start           Motion Detect, Channel 3
+0968    18-04-2017 08:14:34    Alarm Start           Motion Detect, Channel 1
+0969    18-04-2017 08:14:36    Alarm Start           Motion Detect, Channel 2
+0970    18-04-2017 08:14:36    Alarm Stop            Motion Detect, Channel 1
+0971    18-04-2017 08:14:37    Alarm Stop            Motion Detect, Channel 3
+0972    18-04-2017 08:14:38    Alarm Stop            Motion Detect, Channel 2
+0973    18-04-2017 08:17:34    Alarm Start           Motion Detect, Channel 3
+0974    18-04-2017 08:17:34    Alarm Start           Motion Detect, Channel 1
+0975    18-04-2017 08:17:35    Alarm Start           Motion Detect, Channel 2
+0976    18-04-2017 08:17:36    Alarm Stop            Motion Detect, Channel 1
+0977    18-04-2017 08:17:37    Alarm Stop            Motion Detect, Channel 3
+0978    18-04-2017 08:17:37    Alarm Stop            Motion Detect, Channel 2
+0979    18-04-2017 08:18:09    Alarm Start           Motion Detect, Channel 2
+0980    18-04-2017 08:18:10    Alarm Start           Motion Detect, Channel 3
+0981    18-04-2017 08:18:11    Alarm Start           Motion Detect, Channel 1
+0982    18-04-2017 08:18:11    Alarm Stop            Motion Detect, Channel 2
+0983    18-04-2017 08:18:14    Alarm Stop            Motion Detect, Channel 1
+0984    18-04-2017 08:18:14    Alarm Stop            Motion Detect, Channel 3
+0985    18-04-2017 08:18:23    Alarm Start           Motion Detect, Channel 3
+0986    18-04-2017 08:18:23    Alarm Start           Motion Detect, Channel 1
+0987    18-04-2017 08:18:24    Alarm Stop            Motion Detect, Channel 1
+0988    18-04-2017 08:18:25    Alarm Start           Motion Detect, Channel 2
+0989    18-04-2017 08:18:26    Alarm Stop            Motion Detect, Channel 2
+0990    18-04-2017 08:18:26    Alarm Stop            Motion Detect, Channel 3
+0991    18-04-2017 08:19:33    Alarm Start           Motion Detect, Channel 2
+0992    18-04-2017 08:19:33    Alarm Start           Motion Detect, Channel 3
+0993    18-04-2017 08:19:34    Alarm Start           Motion Detect, Channel 1
+0994    18-04-2017 08:19:34    Alarm Stop            Motion Detect, Channel 2
+0995    18-04-2017 08:19:35    Alarm Stop            Motion Detect, Channel 1
+0996    18-04-2017 08:19:36    Alarm Stop            Motion Detect, Channel 3
+0997    18-04-2017 08:40:12    Log In                admin<Xm030:0.0.0.0>
+0998    18-04-2017 08:40:35    Alarm Start           Motion Detect, Channel 2
+0999    18-04-2017 08:40:36    Alarm Stop            Motion Detect, Channel 2
+1000    18-04-2017 08:40:37    Alarm Start           Motion Detect, Channel 2
+1001    18-04-2017 08:40:38    Alarm Start           Motion Detect, Channel 3
+1002    18-04-2017 08:40:40    Alarm Stop            Motion Detect, Channel 2
+1003    18-04-2017 08:40:41    Alarm Start           Motion Detect, Channel 1
+1004    18-04-2017 08:40:41    Alarm Stop            Motion Detect, Channel 3
+1005    18-04-2017 08:40:44    Alarm Stop            Motion Detect, Channel 1
+1006    18-04-2017 09:02:03    Alarm Start           Motion Detect, Channel 3
+1007    18-04-2017 09:02:05    Alarm Stop            Motion Detect, Channel 3
+1008    18-04-2017 09:04:50    Alarm Start           Motion Detect, Channel 2
+1009    18-04-2017 09:04:50    Alarm Start           Motion Detect, Channel 3
+1010    18-04-2017 09:04:51    Alarm Start           Motion Detect, Channel 1
+1011    18-04-2017 09:04:52    Alarm Stop            Motion Detect, Channel 2
+1012    18-04-2017 09:04:53    Alarm Stop            Motion Detect, Channel 1
+1013    18-04-2017 09:04:53    Alarm Stop            Motion Detect, Channel 3
+1014    18-04-2017 09:05:46    Log Out               admin<Xm030:0.0.0.0>
+1015    18-04-2017 09:11:07    Log In                admin<Xm030:0.0.0.0>
+1016    18-04-2017 09:12:56    Alarm Start           Motion Detect, Channel 3
+1017    18-04-2017 09:12:57    Alarm Stop            Motion Detect, Channel 3
+1018    18-04-2017 09:13:07    Alarm Start           Motion Detect, Channel 3
+1019    18-04-2017 09:13:09    Alarm Stop            Motion Detect, Channel 3
+1020    18-04-2017 09:13:11    Alarm Start           Motion Detect, Channel 3
+1021    18-04-2017 09:13:12    Alarm Stop            Motion Detect, Channel 3
+1022    18-04-2017 09:13:22    Alarm Start           Motion Detect, Channel 3
+1023    18-04-2017 09:13:26    Alarm Stop            Motion Detect, Channel 3
+1024    18-04-2017 09:14:08    Alarm Start           Motion Detect, Channel 3
+1025    18-04-2017 09:14:08    Alarm Stop            Motion Detect, Channel 3
+1026    18-04-2017 09:14:10    Alarm Start           Motion Detect, Channel 3
+1027    18-04-2017 09:14:12    Alarm Stop            Motion Detect, Channel 3
+1028    18-04-2017 09:14:34    Alarm Start           Motion Detect, Channel 3
+1029    18-04-2017 09:14:36    Alarm Start           Motion Detect, Channel 1
+1030    18-04-2017 09:14:37    Alarm Stop            Motion Detect, Channel 3
+1031    18-04-2017 09:14:38    Alarm Stop            Motion Detect, Channel 1
+1032    18-04-2017 09:15:02    Log Out               admin<Xm030:0.0.0.0>
+1033    18-04-2017 09:15:25    Log In                admin<Xm030:0.0.0.0>
+1034    18-04-2017 09:18:21    Alarm Start           Motion Detect, Channel 1
+1035    18-04-2017 09:18:21    Alarm Start           Motion Detect, Channel 3
+1036    18-04-2017 09:18:22    Alarm Stop            Motion Detect, Channel 1
+1037    18-04-2017 09:18:22    Alarm Stop            Motion Detect, Channel 3
+1038    18-04-2017 09:20:09    Alarm Start           Motion Detect, Channel 2
+1039    18-04-2017 09:20:10    Alarm Start           Motion Detect, Channel 3
+1040    18-04-2017 09:20:11    Alarm Stop            Motion Detect, Channel 3
+1041    18-04-2017 09:20:11    Alarm Start           Motion Detect, Channel 1
+1042    18-04-2017 09:20:11    Alarm Stop            Motion Detect, Channel 2
+1043    18-04-2017 09:20:12    Alarm Stop            Motion Detect, Channel 1
+1044    18-04-2017 09:20:12    Alarm Start           Motion Detect, Channel 3
+1045    18-04-2017 09:20:12    Alarm Stop            Motion Detect, Channel 3
+1046    18-04-2017 09:23:30    Alarm Start           Motion Detect, Channel 1
+1047    18-04-2017 09:23:30    Alarm Start           Motion Detect, Channel 2
+1048    18-04-2017 09:23:30    Alarm Start           Motion Detect, Channel 3
+1049    18-04-2017 09:23:30    Alarm Stop            Motion Detect, Channel 2
+1050    18-04-2017 09:23:31    Alarm Stop            Motion Detect, Channel 1
+1051    18-04-2017 09:23:32    Alarm Stop            Motion Detect, Channel 3
+1052    18-04-2017 09:27:18    Alarm Start           Motion Detect, Channel 2
+1053    18-04-2017 09:27:19    Alarm Start           Motion Detect, Channel 1
+1054    18-04-2017 09:27:19    Alarm Stop            Motion Detect, Channel 2
+1055    18-04-2017 09:27:20    Alarm Stop            Motion Detect, Channel 1
+1056    18-04-2017 09:28:43    Alarm Start           Motion Detect, Channel 1
+1057    18-04-2017 09:28:43    Alarm Start           Motion Detect, Channel 3
+1058    18-04-2017 09:28:44    Alarm Start           Motion Detect, Channel 2
+1059    18-04-2017 09:28:45    Alarm Stop            Motion Detect, Channel 1
+1060    18-04-2017 09:28:46    Alarm Stop            Motion Detect, Channel 3
+1061    18-04-2017 09:28:47    Alarm Stop            Motion Detect, Channel 2
+1062    18-04-2017 09:33:31    Log In                admin<Web:0.0.0.0>
+1063    18-04-2017 09:33:32    Log Out               admin<Web:0.0.0.0>
+1064    18-04-2017 09:33:37    Log In                admin<Web:0.0.0.0>
+1065    18-04-2017 09:33:37    Set Time              2017-04-18 09:33:46
+1066    18-04-2017 09:33:46    save system state     2017-04-18 09:33:37(2)
+1067    18-04-2017 09:33:53    Alarm Start           Motion Detect, Channel 3
+1068    18-04-2017 09:33:56    Alarm Start           Motion Detect, Channel 2
+1069    18-04-2017 09:33:58    Alarm Stop            Motion Detect, Channel 3
+1070    18-04-2017 09:33:59    Alarm Stop            Motion Detect, Channel 2
+1071    18-04-2017 09:34:00    Alarm Start           Motion Detect, Channel 2
+1072    18-04-2017 09:34:00    Alarm Stop            Motion Detect, Channel 2
+1073    18-04-2017 09:36:21    Log In                admin<Web:0.0.0.0>
+1074    18-04-2017 09:36:22    Log Out               admin<Web:0.0.0.0>
+1075    18-04-2017 09:36:36    Log In                admin<Web:0.0.0.0>
+1076    18-04-2017 09:36:37    Log Out               admin<Web:0.0.0.0>
+1077    18-04-2017 09:41:44    Log In                admin<Web:0.0.0.0>
+1078    18-04-2017 09:41:50    Log Out               admin<Web:0.0.0.0>
+1079    18-04-2017 09:42:04    Log In                admin<Web:0.0.0.0>
+1080    18-04-2017 09:42:05    Log Out               admin<Web:0.0.0.0>
+1081    18-04-2017 09:42:19    Log In                admin<Web:0.0.0.0>
+1082    18-04-2017 09:42:20    Log Out               admin<Web:0.0.0.0>
+1083    18-04-2017 09:42:32    Log Out               admin<Xm030:0.0.0.0>
+1084    18-04-2017 09:42:35    Log In                admin<Web:0.0.0.0>
+1085    18-04-2017 09:42:36    Log Out               admin<Web:0.0.0.0>
+1086    18-04-2017 09:43:49    Log In                admin<Xm030:0.0.0.0>
+1087    18-04-2017 09:46:41    Log Out               admin<Xm030:0.0.0.0>
+1088    18-04-2017 09:48:31    Alarm Start           Motion Detect, Channel 3
+1089    18-04-2017 09:48:31    Alarm Start           Motion Detect, Channel 1
+1090    18-04-2017 09:48:32    Alarm Start           Motion Detect, Channel 2
+1091    18-04-2017 09:48:33    Alarm Stop            Motion Detect, Channel 1
+1092    18-04-2017 09:48:33    Alarm Stop            Motion Detect, Channel 3
+1093    18-04-2017 09:48:33    Alarm Start           Motion Detect, Channel 3
+1094    18-04-2017 09:48:34    Alarm Stop            Motion Detect, Channel 3
+1095    18-04-2017 09:48:35    Alarm Stop            Motion Detect, Channel 2
+1096    18-04-2017 09:56:50    Log Out               admin<Web:0.0.0.0>
+1097    18-04-2017 09:56:51    Log In                admin<Web:0.0.0.0>
+1098    18-04-2017 09:56:52    Set Time              2017-04-18 09:56:53
+1099    18-04-2017 09:57:38    Log In                admin<Web:0.0.0.0>
+1100    18-04-2017 09:57:39    Log Out               admin<Web:0.0.0.0>
+1101    18-04-2017 09:57:53    Log In                admin<Web:0.0.0.0>
+1102    18-04-2017 09:57:54    Log Out               admin<Web:0.0.0.0>
+1103    18-04-2017 09:58:55    Log In                admin<Web:0.0.0.0>
+1104    18-04-2017 09:59:00    Log Out               admin<Web:0.0.0.0>
+1105    18-04-2017 09:59:18    Alarm Start           Motion Detect, Channel 1
+1106    18-04-2017 09:59:19    Alarm Start           Motion Detect, Channel 3
+1107    18-04-2017 09:59:21    Alarm Stop            Motion Detect, Channel 1
+1108    18-04-2017 09:59:22    Alarm Start           Motion Detect, Channel 2
+1109    18-04-2017 09:59:23    Alarm Stop            Motion Detect, Channel 2
+1110    18-04-2017 09:59:23    Alarm Stop            Motion Detect, Channel 3
+1111    18-04-2017 09:59:32    Log In                admin<Web:0.0.0.0>
+1112    18-04-2017 09:59:33    Log Out               admin<Web:0.0.0.0>
+1113    18-04-2017 10:00:00    Log In                admin<Web:0.0.0.0>
+1114    18-04-2017 10:00:01    Log Out               admin<Web:0.0.0.0>
+1115    18-04-2017 10:00:15    Log In                admin<Web:0.0.0.0>
+1116    18-04-2017 10:00:16    Log Out               admin<Web:0.0.0.0>
+1117    18-04-2017 10:00:20    Alarm Start           Motion Detect, Channel 3
+1118    18-04-2017 10:00:20    Alarm Stop            Motion Detect, Channel 3
+1119    18-04-2017 10:09:22    Alarm Start           Motion Detect, Channel 3
+1120    18-04-2017 10:09:23    Alarm Start           Motion Detect, Channel 1
+1121    18-04-2017 10:09:24    Alarm Stop            Motion Detect, Channel 1
+1122    18-04-2017 10:09:24    Alarm Stop            Motion Detect, Channel 3
+1123    18-04-2017 10:09:24    Alarm Start           Motion Detect, Channel 2
+1124    18-04-2017 10:09:25    Alarm Stop            Motion Detect, Channel 2
+1125    18-04-2017 10:16:31    Alarm Start           Motion Detect, Channel 2
+1126    18-04-2017 10:16:31    Alarm Stop            Motion Detect, Channel 2
+1127    18-04-2017 10:16:32    Alarm Start           Motion Detect, Channel 3
+1128    18-04-2017 10:16:33    Alarm Start           Motion Detect, Channel 2
+1129    18-04-2017 10:16:34    Alarm Stop            Motion Detect, Channel 2
+1130    18-04-2017 10:16:37    Alarm Stop            Motion Detect, Channel 3
+1131    18-04-2017 10:16:53    Log Out               admin<Web:0.0.0.0>
+1132    18-04-2017 10:20:53    Alarm Start           Motion Detect, Channel 1
+1133    18-04-2017 10:20:53    Alarm Stop            Motion Detect, Channel 1
+1134    18-04-2017 10:20:55    Alarm Start           Motion Detect, Channel 3
+1135    18-04-2017 10:20:55    Alarm Start           Motion Detect, Channel 1
+1136    18-04-2017 10:20:56    Alarm Stop            Motion Detect, Channel 1
+1137    18-04-2017 10:20:58    Alarm Start           Motion Detect, Channel 2
+1138    18-04-2017 10:20:58    Alarm Stop            Motion Detect, Channel 2
+1139    18-04-2017 10:20:59    Alarm Stop            Motion Detect, Channel 3
+1140    18-04-2017 10:25:24    Alarm Start           Motion Detect, Channel 3
+1141    18-04-2017 10:25:25    Alarm Stop            Motion Detect, Channel 3
+1142    18-04-2017 10:37:33    Alarm Start           Motion Detect, Channel 1
+1143    18-04-2017 10:37:33    Alarm Start           Motion Detect, Channel 3
+1144    18-04-2017 10:37:34    Alarm Stop            Motion Detect, Channel 1
+1145    18-04-2017 10:37:35    Alarm Stop            Motion Detect, Channel 3
+1146    18-04-2017 10:47:26    Alarm Start           Motion Detect, Channel 3
+1147    18-04-2017 10:47:26    Alarm Stop            Motion Detect, Channel 3
+1148    18-04-2017 10:47:53    Alarm Start           Motion Detect, Channel 2
+1149    18-04-2017 10:47:54    Alarm Start           Motion Detect, Channel 3
+1150    18-04-2017 10:47:54    Alarm Stop            Motion Detect, Channel 3
+1151    18-04-2017 10:47:54    Alarm Start           Motion Detect, Channel 1
+1152    18-04-2017 10:47:55    Alarm Stop            Motion Detect, Channel 2
+1153    18-04-2017 10:47:55    Alarm Stop            Motion Detect, Channel 1
+1154    18-04-2017 10:47:56    Alarm Start           Motion Detect, Channel 3
+1155    18-04-2017 10:47:56    Alarm Stop            Motion Detect, Channel 3
+1156    18-04-2017 10:49:48    Alarm Start           Motion Detect, Channel 1
+1157    18-04-2017 10:49:49    Alarm Stop            Motion Detect, Channel 1
+1158    18-04-2017 10:49:50    Alarm Start           Motion Detect, Channel 3
+1159    18-04-2017 10:49:50    Alarm Start           Motion Detect, Channel 1
+1160    18-04-2017 10:49:51    Alarm Stop            Motion Detect, Channel 1
+1161    18-04-2017 10:49:55    Alarm Stop            Motion Detect, Channel 3
+1162    18-04-2017 10:52:42    Alarm Start           Motion Detect, Channel 3
+1163    18-04-2017 10:52:44    Alarm Start           Motion Detect, Channel 1
+1164    18-04-2017 10:52:45    Alarm Stop            Motion Detect, Channel 1
+1165    18-04-2017 10:52:45    Alarm Start           Motion Detect, Channel 2
+1166    18-04-2017 10:52:47    Alarm Stop            Motion Detect, Channel 3
+1167    18-04-2017 10:52:49    Alarm Stop            Motion Detect, Channel 2
+1168    18-04-2017 10:58:27    Alarm Start           Motion Detect, Channel 1
+1169    18-04-2017 10:58:28    Alarm Stop            Motion Detect, Channel 1
+1170    18-04-2017 10:58:28    Alarm Start           Motion Detect, Channel 3
+1171    18-04-2017 10:58:29    Alarm Start           Motion Detect, Channel 1
+1172    18-04-2017 10:58:30    Alarm Stop            Motion Detect, Channel 1
+1173    18-04-2017 10:58:32    Alarm Stop            Motion Detect, Channel 3
+1174    18-04-2017 11:01:24    Alarm Start           Motion Detect, Channel 3
+1175    18-04-2017 11:01:25    Alarm Stop            Motion Detect, Channel 3
+1176    18-04-2017 11:03:53    Alarm Start           Motion Detect, Channel 3
+1177    18-04-2017 11:03:54    Alarm Start           Motion Detect, Channel 1
+1178    18-04-2017 11:03:55    Alarm Start           Motion Detect, Channel 2
+1179    18-04-2017 11:03:55    Alarm Stop            Motion Detect, Channel 1
+1180    18-04-2017 11:03:55    Alarm Stop            Motion Detect, Channel 3
+1181    18-04-2017 11:03:57    Alarm Stop            Motion Detect, Channel 2
+1182    18-04-2017 11:09:14    Alarm Start           Motion Detect, Channel 1
+1183    18-04-2017 11:09:14    Alarm Start           Motion Detect, Channel 3
+1184    18-04-2017 11:09:16    Alarm Stop            Motion Detect, Channel 1
+1185    18-04-2017 11:09:18    Alarm Stop            Motion Detect, Channel 3
+1186    18-04-2017 11:13:34    Alarm Start           Motion Detect, Channel 3
+1187    18-04-2017 11:13:36    Alarm Stop            Motion Detect, Channel 3
+1188    18-04-2017 11:18:45    Alarm Start           Motion Detect, Channel 3
+1189    18-04-2017 11:18:45    Alarm Stop            Motion Detect, Channel 3
+1190    18-04-2017 11:19:31    Alarm Start           Motion Detect, Channel 3
+1191    18-04-2017 11:19:33    Alarm Start           Motion Detect, Channel 1
+1192    18-04-2017 11:19:35    Alarm Stop            Motion Detect, Channel 1
+1193    18-04-2017 11:19:35    Alarm Stop            Motion Detect, Channel 3
+1194    18-04-2017 11:23:57    Alarm Start           Motion Detect, Channel 2
+1195    18-04-2017 11:23:57    Alarm Stop            Motion Detect, Channel 2
+1196    18-04-2017 11:23:57    Alarm Start           Motion Detect, Channel 3
+1197    18-04-2017 11:23:58    Alarm Stop            Motion Detect, Channel 3
+1198    18-04-2017 11:23:58    Alarm Start           Motion Detect, Channel 1
+1199    18-04-2017 11:23:59    Alarm Stop            Motion Detect, Channel 1
+1200    18-04-2017 11:24:00    Alarm Start           Motion Detect, Channel 3
+1201    18-04-2017 11:24:00    Alarm Stop            Motion Detect, Channel 3
+1202    18-04-2017 11:31:54    Alarm Start           Motion Detect, Channel 3
+1203    18-04-2017 11:31:59    Alarm Stop            Motion Detect, Channel 3
+1204    18-04-2017 11:32:54    Alarm Start           Motion Detect, Channel 3
+1205    18-04-2017 11:32:55    Alarm Stop            Motion Detect, Channel 3
+1206    18-04-2017 11:37:23    Alarm Start           Motion Detect, Channel 3
+1207    18-04-2017 11:37:25    Alarm Start           Motion Detect, Channel 1
+1208    18-04-2017 11:37:26    Alarm Start           Motion Detect, Channel 2
+1209    18-04-2017 11:37:26    Alarm Stop            Motion Detect, Channel 1
+1210    18-04-2017 11:37:28    Alarm Stop            Motion Detect, Channel 3
+1211    18-04-2017 11:37:30    Alarm Stop            Motion Detect, Channel 2
+1212    18-04-2017 11:42:55    Alarm Start           Motion Detect, Channel 3
+1213    18-04-2017 11:42:56    Alarm Start           Motion Detect, Channel 1
+1214    18-04-2017 11:42:59    Alarm Stop            Motion Detect, Channel 3
+1215    18-04-2017 11:43:00    Alarm Stop            Motion Detect, Channel 1
+1216    18-04-2017 11:46:08    Alarm Start           Motion Detect, Channel 3
+1217    18-04-2017 11:46:08    Alarm Stop            Motion Detect, Channel 3
+1218    18-04-2017 11:52:05    Alarm Start           Motion Detect, Channel 1
+1219    18-04-2017 11:52:06    Alarm Start           Motion Detect, Channel 3
+1220    18-04-2017 11:52:07    Alarm Stop            Motion Detect, Channel 1
+1221    18-04-2017 11:52:09    Alarm Stop            Motion Detect, Channel 3
+1222    18-04-2017 12:10:27    Alarm Start           Motion Detect, Channel 1
+1223    18-04-2017 12:10:29    Alarm Stop            Motion Detect, Channel 1
+1224    18-04-2017 12:11:05    Alarm Start           Motion Detect, Channel 1
+1225    18-04-2017 12:11:09    Alarm Stop            Motion Detect, Channel 1
+1226    18-04-2017 12:11:10    Alarm Start           Motion Detect, Channel 1
+1227    18-04-2017 12:11:11    Alarm Stop            Motion Detect, Channel 1
+1228    18-04-2017 12:11:11    Alarm Start           Motion Detect, Channel 3
+1229    18-04-2017 12:11:12    Alarm Stop            Motion Detect, Channel 3
+1230    18-04-2017 12:11:20    Alarm Start           Motion Detect, Channel 3
+1231    18-04-2017 12:11:22    Alarm Stop            Motion Detect, Channel 3
+1232    18-04-2017 12:11:56    Alarm Start           Motion Detect, Channel 3
+1233    18-04-2017 12:11:57    Alarm Stop            Motion Detect, Channel 3
+1234    18-04-2017 12:12:20    Alarm Start           Motion Detect, Channel 1
+1235    18-04-2017 12:12:20    Alarm Stop            Motion Detect, Channel 1
+1236    18-04-2017 12:12:36    Alarm Start           Motion Detect, Channel 3
+1237    18-04-2017 12:12:37    Alarm Stop            Motion Detect, Channel 3
+1238    18-04-2017 12:12:38    Alarm Start           Motion Detect, Channel 1
+1239    18-04-2017 12:12:38    Alarm Stop            Motion Detect, Channel 1
+1240    18-04-2017 12:12:38    Alarm Start           Motion Detect, Channel 3
+1241    18-04-2017 12:12:40    Alarm Stop            Motion Detect, Channel 3
+1242    18-04-2017 12:14:06    Alarm Start           Motion Detect, Channel 1
+1243    18-04-2017 12:14:07    Alarm Stop            Motion Detect, Channel 1
+1244    18-04-2017 12:14:23    Alarm Start           Motion Detect, Channel 1
+1245    18-04-2017 12:14:24    Alarm Stop            Motion Detect, Channel 1
+1246    18-04-2017 12:14:54    Alarm Start           Motion Detect, Channel 1
+1247    18-04-2017 12:14:55    Alarm Stop            Motion Detect, Channel 1
+1248    18-04-2017 12:15:05    Alarm Start           Motion Detect, Channel 1
+1249    18-04-2017 12:15:05    Alarm Start           Motion Detect, Channel 3
+1250    18-04-2017 12:15:06    Alarm Stop            Motion Detect, Channel 1
+1251    18-04-2017 12:15:08    Alarm Start           Motion Detect, Channel 1
+1252    18-04-2017 12:15:10    Alarm Stop            Motion Detect, Channel 1
+1253    18-04-2017 12:15:10    Alarm Stop            Motion Detect, Channel 3
+1254    18-04-2017 12:15:14    Alarm Start           Motion Detect, Channel 1
+1255    18-04-2017 12:15:15    Alarm Stop            Motion Detect, Channel 1
+1256    18-04-2017 12:15:31    Alarm Start           Motion Detect, Channel 1
+1257    18-04-2017 12:15:32    Alarm Stop            Motion Detect, Channel 1
+1258    18-04-2017 12:15:34    Alarm Start           Motion Detect, Channel 1
+1259    18-04-2017 12:15:34    Alarm Stop            Motion Detect, Channel 1
+1260    18-04-2017 12:17:03    Alarm Start           Motion Detect, Channel 3
+1261    18-04-2017 12:17:05    Alarm Start           Motion Detect, Channel 1
+1262    18-04-2017 12:17:05    Alarm Stop            Motion Detect, Channel 3
+1263    18-04-2017 12:17:05    Alarm Stop            Motion Detect, Channel 1
+1264    18-04-2017 12:17:05    Alarm Start           Motion Detect, Channel 3
+1265    18-04-2017 12:17:06    Alarm Stop            Motion Detect, Channel 3
+1266    18-04-2017 12:19:07    Alarm Start           Motion Detect, Channel 3
+1267    18-04-2017 12:19:07    Alarm Start           Motion Detect, Channel 1
+1268    18-04-2017 12:19:07    Alarm Stop            Motion Detect, Channel 1
+1269    18-04-2017 12:19:08    Alarm Start           Motion Detect, Channel 2
+1270    18-04-2017 12:19:09    Alarm Stop            Motion Detect, Channel 2
+1271    18-04-2017 12:19:09    Alarm Stop            Motion Detect, Channel 3
+1272    18-04-2017 12:21:19    Alarm Start           Motion Detect, Channel 1
+1273    18-04-2017 12:21:19    Alarm Stop            Motion Detect, Channel 1
+1274    18-04-2017 12:21:20    Alarm Start           Motion Detect, Channel 3
+1275    18-04-2017 12:21:21    Alarm Start           Motion Detect, Channel 1
+1276    18-04-2017 12:21:22    Alarm Stop            Motion Detect, Channel 1
+1277    18-04-2017 12:21:24    Alarm Stop            Motion Detect, Channel 3
+1278    18-04-2017 12:21:26    Log In                admin<Web:0.0.0.0>
+1279    18-04-2017 12:21:27    Log Out               admin<Web:0.0.0.0>
+1280    18-04-2017 12:21:52    Log In                admin<Web:0.0.0.0>
+1281    18-04-2017 12:21:52    Set Time              2017-04-18 12:21:41
+1282    18-04-2017 12:21:41    save system state     2017-04-18 12:21:52(2)
