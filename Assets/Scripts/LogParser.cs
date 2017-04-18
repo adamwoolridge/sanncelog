@@ -106,6 +106,16 @@ public static class LogParser
             Debug.Log("Last entry: " + combinedLogs[combinedLogs.Count - 1].start);
         }
     }
+
+    public static List<LogMotionEntry> GetDailyLogs(DateTime date)
+    {
+        List<LogMotionEntry> entries = null;
+
+        dailyLogs.TryGetValue(date, out entries);
+
+        return entries;            
+    }
+
 }
 
 

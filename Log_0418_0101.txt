@@ -521,3 +521,93 @@
 0520    17-04-2017 22:50:31    Log In                admin<Web:0.0.0.0>
 0521    17-04-2017 22:50:39    Log In                admin<Web:0.0.0.0>
 0522    17-04-2017 22:50:40    Log Out               admin<Web:0.0.0.0>
+0523    17-04-2017 22:51:35    Export log            DC62397FCA6A7F49F3E8BC62E17EE9CB(English)
+0524    17-04-2017 22:51:40    Log In                admin<Web:0.0.0.0>
+0525    17-04-2017 22:51:41    Log Out               admin<Web:0.0.0.0>
+0526    17-04-2017 22:52:34    Log In                admin<Web:0.0.0.0>
+0527    17-04-2017 22:52:35    Log Out               admin<Web:0.0.0.0>
+0528    17-04-2017 22:52:42    Alarm Start           Motion Detect, Channel 3
+0529    17-04-2017 22:52:43    Alarm Stop            Motion Detect, Channel 3
+0530    17-04-2017 22:52:49    Alarm Start           Motion Detect, Channel 4
+0531    17-04-2017 22:52:50    Alarm Stop            Motion Detect, Channel 4
+0532    17-04-2017 22:52:56    Alarm Start           Motion Detect, Channel 4
+0533    17-04-2017 22:52:56    Alarm Stop            Motion Detect, Channel 4
+0534    17-04-2017 22:53:00    Alarm Start           Motion Detect, Channel 4
+0535    17-04-2017 22:53:00    Alarm Stop            Motion Detect, Channel 4
+0536    17-04-2017 22:53:06    Alarm Start           Motion Detect, Channel 4
+0537    17-04-2017 22:53:07    Alarm Stop            Motion Detect, Channel 4
+0538    17-04-2017 22:53:26    Log In                admin<Web:0.0.0.0>
+0539    17-04-2017 22:53:27    Log Out               admin<Web:0.0.0.0>
+0540    17-04-2017 23:04:51    Log In                admin<Web:0.0.0.0>
+0541    17-04-2017 23:04:52    Log Out               admin<Web:0.0.0.0>
+0542    17-04-2017 23:05:38    Log In                admin<Web:0.0.0.0>
+0543    17-04-2017 23:05:39    Log Out               admin<Web:0.0.0.0>
+0544    17-04-2017 23:05:54    Log In                admin<Web:0.0.0.0>
+0545    17-04-2017 23:05:55    Log Out               admin<Web:0.0.0.0>
+0546    17-04-2017 23:06:09    Log In                admin<Web:0.0.0.0>
+0547    17-04-2017 23:06:10    Log Out               admin<Web:0.0.0.0>
+0548    17-04-2017 23:08:35    Log In                admin<Web:0.0.0.0>
+0549    17-04-2017 23:08:36    Log Out               admin<Web:0.0.0.0>
+0550    17-04-2017 23:08:50    Log In                admin<Web:0.0.0.0>
+0551    17-04-2017 23:08:51    Log Out               admin<Web:0.0.0.0>
+0552    17-04-2017 23:09:54    Log In                admin<Web:0.0.0.0>
+0553    17-04-2017 23:09:55    Log Out               admin<Web:0.0.0.0>
+0554    17-04-2017 23:10:05    Alarm Start           Motion Detect, Channel 3
+0555    17-04-2017 23:10:05    Alarm Stop            Motion Detect, Channel 3
+0556    17-04-2017 23:10:09    Log In                admin<Web:0.0.0.0>
+0557    17-04-2017 23:10:10    Log Out               admin<Web:0.0.0.0>
+0558    17-04-2017 23:15:31    Alarm Start           Motion Detect, Channel 1
+0559    17-04-2017 23:15:31    Alarm Stop            Motion Detect, Channel 1
+0560    17-04-2017 23:18:05    Alarm Start           Motion Detect, Channel 3
+0561    17-04-2017 23:18:06    Alarm Stop            Motion Detect, Channel 3
+0562    17-04-2017 23:20:31    Log In                admin<Web:0.0.0.0>
+0563    17-04-2017 23:20:33    Log Out               admin<Web:0.0.0.0>
+0564    17-04-2017 23:22:28    Log Out               admin<Web:0.0.0.0>
+0565    17-04-2017 23:39:55    Alarm Start           Motion Detect, Channel 1
+0566    17-04-2017 23:39:55    Alarm Stop            Motion Detect, Channel 1
+0567    17-04-2017 23:45:10    Alarm Start           Motion Detect, Channel 3
+0568    17-04-2017 23:45:11    Alarm Stop            Motion Detect, Channel 3
+0569    17-04-2017 23:45:19    Alarm Start           Motion Detect, Channel 3
+0570    17-04-2017 23:45:20    Alarm Stop            Motion Detect, Channel 3
+0571    17-04-2017 23:48:31    Log In                admin<Web:0.0.0.0>
+0572    17-04-2017 23:48:37    Log In                admin<Web:0.0.0.0>
+0573    17-04-2017 23:48:38    Log Out               admin<Web:0.0.0.0>
+0574    17-04-2017 23:49:43    Log In                admin<Web:0.0.0.0>
+0575    17-04-2017 23:49:44    Log Out               admin<Web:0.0.0.0>
+0576    17-04-2017 23:59:44    Log In                admin<Web:0.0.0.0>
+0577    17-04-2017 23:59:45    Log Out               admin<Web:0.0.0.0>
+0578    18-04-2017 00:00:09    Log In                admin<Web:0.0.0.0>
+0579    18-04-2017 00:00:10    Log Out               admin<Web:0.0.0.0>
+0580    18-04-2017 00:09:58    Log In                admin<Web:0.0.0.0>
+0581    18-04-2017 00:09:59    Log Out               admin<Web:0.0.0.0>
+0582    18-04-2017 00:10:51    Alarm Start           Motion Detect, Channel 3
+0583    18-04-2017 00:10:52    Alarm Stop            Motion Detect, Channel 3
+0584    18-04-2017 00:12:54    Alarm Start           Motion Detect, Channel 3
+0585    18-04-2017 00:12:54    Alarm Stop            Motion Detect, Channel 3
+0586    18-04-2017 00:21:31    Save Configuration    Motion Detect
+0587    18-04-2017 00:24:11    Log In                admin<Web:0.0.0.0>
+0588    18-04-2017 00:24:12    Log Out               admin<Web:0.0.0.0>
+0589    18-04-2017 00:26:59    Log In                admin<Web:0.0.0.0>
+0590    18-04-2017 00:27:00    Log Out               admin<Web:0.0.0.0>
+0591    18-04-2017 00:27:15    Log In                admin<Web:0.0.0.0>
+0592    18-04-2017 00:27:16    Log Out               admin<Web:0.0.0.0>
+0593    18-04-2017 00:29:47    Log In                admin<Web:0.0.0.0>
+0594    18-04-2017 00:29:48    Log Out               admin<Web:0.0.0.0>
+0595    18-04-2017 00:30:06    Log In                admin<Web:0.0.0.0>
+0596    18-04-2017 00:30:08    Log Out               admin<Web:0.0.0.0>
+0597    18-04-2017 00:32:26    Log In                admin<Web:0.0.0.0>
+0598    18-04-2017 00:32:27    Log Out               admin<Web:0.0.0.0>
+0599    18-04-2017 00:32:57    Log In                admin<Web:0.0.0.0>
+0600    18-04-2017 00:32:58    Log Out               admin<Web:0.0.0.0>
+0601    18-04-2017 00:33:51    Log In                admin<Web:0.0.0.0>
+0602    18-04-2017 00:33:52    Log Out               admin<Web:0.0.0.0>
+0603    18-04-2017 00:35:00    Log In                admin<Web:0.0.0.0>
+0604    18-04-2017 00:35:01    Log Out               admin<Web:0.0.0.0>
+0605    18-04-2017 00:39:28    Log In                admin<Web:0.0.0.0>
+0606    18-04-2017 00:39:29    Log Out               admin<Web:0.0.0.0>
+0607    18-04-2017 00:44:42    Log Out               admin<Web:0.0.0.0>
+0608    18-04-2017 00:57:01    Alarm Start           Motion Detect, Channel 4
+0609    18-04-2017 00:57:01    Alarm Stop            Motion Detect, Channel 4
+0610    18-04-2017 01:01:19    Log In                admin<Web:0.0.0.0>
+0611    18-04-2017 01:01:26    Log In                admin<Web:0.0.0.0>
+0612    18-04-2017 01:01:27    Log Out               admin<Web:0.0.0.0>
