@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 224693619772995420}
   - component: {fileID: 222533515966141524}
   - component: {fileID: 114188653291479050}
+  - component: {fileID: 114085253288505148}
   m_Layer: 0
   m_Name: TextCameraName
   m_TagString: Untagged
@@ -63,6 +64,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &114085253288505148
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1150771907932818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 2, y: 2}
+  m_UseGraphicAlpha: 1
 --- !u!114 &114188653291479050
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -83,7 +98,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: dbe8a0baccd139b49a56412d526a49fc, type: 3}
     m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
@@ -108,7 +123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.7241379, b: 0, a: 0.90975267}
+  m_Color: {r: 0.21323532, g: 0.20155711, b: 0.17090183, a: 0.90975267}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -157,6 +172,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PrefabTimeBlock: {fileID: 224710011617044184, guid: fea755230d87e574496a8db3e0448c4b,
+    type: 2}
+  PrefabGraphSeries: {fileID: 224973563102575724, guid: 7a78b6215c6c6d8429abe04ff4cd1b06,
     type: 2}
   TextChannelName: {fileID: 114188653291479050}
   TimeBlockParent: {fileID: 224551219181055004}

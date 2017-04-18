@@ -9,10 +9,11 @@ public class UITimeBlock : MonoBehaviour
 
     int triggerCount = 0;
     
-    public void IncreaseTriggerCount()
+    public int IncreaseTriggerCount()
     {
         triggerCount++;
         TextTriggerCount.text = triggerCount.ToString();
+        return triggerCount;
     }	
     
     public void ClearTriggerCount()

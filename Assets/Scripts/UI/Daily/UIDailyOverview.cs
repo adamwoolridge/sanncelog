@@ -10,6 +10,7 @@ public class UIDailyOverview : MonoBehaviour {
     public UICameraTimeline [] CameraTimeLines;
     public Text TextCurrentDate;
     private DateTime currentDay;
+    public WMG_Axis_Graph Graph;
 
 	// Use this for initialization
 	void Start () {
@@ -20,7 +21,7 @@ public class UIDailyOverview : MonoBehaviour {
         int index = 0;
         foreach (UICameraTimeline ct in CameraTimeLines)
         {
-            ct.Init(index + 1, LogParser.channelNames[index]);            
+            ct.Init(index + 1, LogParser.channelNames[index], Graph);            
             index++;
         }
 
