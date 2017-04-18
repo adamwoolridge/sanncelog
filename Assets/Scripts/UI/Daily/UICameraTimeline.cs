@@ -16,6 +16,8 @@ public class UICameraTimeline : MonoBehaviour
 
     private WMG_Series graphSeries;
 
+    public Color [] Colours;
+
     public void Init(int ch, string channelName, WMG_Axis_Graph graph)
     {     
         channel = ch;
@@ -28,6 +30,8 @@ public class UICameraTimeline : MonoBehaviour
         }
 
         graphSeries = graph.addSeries();
+        graphSeries.seriesName = channelName;
+        graphSeries.lineColor = Colours[ch - 1];
     }
 
     public void Show(DateTime date)
