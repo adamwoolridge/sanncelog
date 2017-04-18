@@ -43,11 +43,7 @@ public class UICameraTimeline : MonoBehaviour
                 {
                     TimeBlockParent.GetChild(entry.start.Hour).transform.localScale = new Vector3(1f, 1f, 1f);
                     TimeBlockParent.GetChild(entry.start.Hour).GetComponent<UITimeBlock>().IncreaseTriggerCount();
-                }
-                else
-                {
-                    TimeBlockParent.GetChild(entry.start.Hour).transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
-                }
+                }               
             }
         }       
     }
