@@ -5379,8 +5379,8 @@ MonoBehaviour:
   _tooltipEnabled: 1
   _autoAnimationsEnabled: 1
   _autoPaddingProperties: 15
-  _autoPaddingEnabled: 1
-  _autoPaddingAmount: 10
+  _autoPaddingEnabled: 0
+  _autoPaddingAmount: 0
   _tickSize: {x: 2, y: 5}
   _graphTitleString: 
   _graphTitleOffset: {x: 0, y: 10}

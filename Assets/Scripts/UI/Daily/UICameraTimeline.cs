@@ -62,6 +62,7 @@ public class UICameraTimeline : MonoBehaviour
             }
         }
 
+        graphSeries.UseXDistBetweenToSpace = true;
         graphSeries.pointValues.SetList(seriesData);
     }
 }
