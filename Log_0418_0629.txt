@@ -616,3 +616,160 @@
 0615    18-04-2017 01:25:06    Log In                admin<Web:0.0.0.0>
 0616    18-04-2017 01:25:15    Log In                admin<Web:0.0.0.0>
 0617    18-04-2017 01:25:16    Log Out               admin<Web:0.0.0.0>
+0618    18-04-2017 01:25:34    Export log            8878BB8EDAF0D2BE71FBCF7B45FCDF3E(English)
+0619    18-04-2017 01:25:40    Log In                admin<Web:0.0.0.0>
+0620    18-04-2017 01:25:41    Log Out               admin<Web:0.0.0.0>
+0621    18-04-2017 01:27:38    Log In                admin<Web:0.0.0.0>
+0622    18-04-2017 01:27:39    Log Out               admin<Web:0.0.0.0>
+0623    18-04-2017 01:29:46    Log Out               admin<Web:0.0.0.0>
+0624    18-04-2017 01:36:22    Log In                admin<Web:0.0.0.0>
+0625    18-04-2017 01:36:29    Log In                admin<Web:0.0.0.0>
+0626    18-04-2017 01:36:30    Log Out               admin<Web:0.0.0.0>
+0627    18-04-2017 01:38:53    Log Out               admin<Web:0.0.0.0>
+0628    18-04-2017 01:54:40    Log In                admin<Web:0.0.0.0>
+0629    18-04-2017 01:54:47    Log In                admin<Web:0.0.0.0>
+0630    18-04-2017 01:54:48    Log Out               admin<Web:0.0.0.0>
+0631    18-04-2017 01:58:35    Log Out               admin<Web:0.0.0.0>
+0632    18-04-2017 02:17:16    Alarm Start           Motion Detect, Channel 4
+0633    18-04-2017 02:17:17    Alarm Stop            Motion Detect, Channel 4
+0634    18-04-2017 02:18:52    Log In                admin<Web:0.0.0.0>
+0635    18-04-2017 02:18:58    Log In                admin<Web:0.0.0.0>
+0636    18-04-2017 02:18:59    Log Out               admin<Web:0.0.0.0>
+0637    18-04-2017 02:21:18    Log Out               admin<Web:0.0.0.0>
+0638    18-04-2017 02:27:04    Log In                admin<Xm030:0.0.0.0>
+0639    18-04-2017 02:36:49    Alarm Start           Motion Detect, Channel 3
+0640    18-04-2017 02:36:53    Alarm Stop            Motion Detect, Channel 3
+0641    18-04-2017 02:36:59    Alarm Start           Motion Detect, Channel 3
+0642    18-04-2017 02:37:03    Alarm Stop            Motion Detect, Channel 3
+0643    18-04-2017 02:40:09    Alarm Start           Motion Detect, Channel 3
+0644    18-04-2017 02:40:13    Alarm Stop            Motion Detect, Channel 3
+0645    18-04-2017 02:40:19    Alarm Start           Motion Detect, Channel 3
+0646    18-04-2017 02:40:23    Alarm Stop            Motion Detect, Channel 3
+0647    18-04-2017 02:40:52    Alarm Start           Motion Detect, Channel 4
+0648    18-04-2017 02:40:52    Alarm Stop            Motion Detect, Channel 4
+0649    18-04-2017 02:42:42    Alarm Start           Motion Detect, Channel 3
+0650    18-04-2017 02:42:46    Alarm Stop            Motion Detect, Channel 3
+0651    18-04-2017 02:42:52    Alarm Start           Motion Detect, Channel 3
+0652    18-04-2017 02:42:56    Alarm Stop            Motion Detect, Channel 3
+0653    18-04-2017 03:00:10    Alarm Start           Motion Detect, Channel 3
+0654    18-04-2017 03:00:14    Alarm Stop            Motion Detect, Channel 3
+0655    18-04-2017 03:00:20    Alarm Start           Motion Detect, Channel 3
+0656    18-04-2017 03:00:24    Alarm Stop            Motion Detect, Channel 3
+0657    18-04-2017 03:18:58    Alarm Start           Motion Detect, Channel 4
+0658    18-04-2017 03:18:58    Alarm Stop            Motion Detect, Channel 4
+0659    18-04-2017 03:24:23    Alarm Start           Motion Detect, Channel 4
+0660    18-04-2017 03:24:24    Alarm Stop            Motion Detect, Channel 4
+0661    18-04-2017 04:23:16    Alarm Start           Motion Detect, Channel 4
+0662    18-04-2017 04:23:17    Alarm Stop            Motion Detect, Channel 4
+0663    18-04-2017 04:34:00    Alarm Start           Motion Detect, Channel 3
+0664    18-04-2017 04:34:04    Alarm Stop            Motion Detect, Channel 3
+0665    18-04-2017 04:34:09    Alarm Start           Motion Detect, Channel 3
+0666    18-04-2017 04:34:13    Alarm Stop            Motion Detect, Channel 3
+0667    18-04-2017 04:46:29    Alarm Start           Motion Detect, Channel 3
+0668    18-04-2017 04:46:33    Alarm Stop            Motion Detect, Channel 3
+0669    18-04-2017 04:46:39    Alarm Start           Motion Detect, Channel 3
+0670    18-04-2017 04:46:42    Alarm Stop            Motion Detect, Channel 3
+0671    18-04-2017 04:48:41    Alarm Start           Motion Detect, Channel 4
+0672    18-04-2017 04:48:42    Alarm Stop            Motion Detect, Channel 4
+0673    18-04-2017 04:51:22    Alarm Start           Motion Detect, Channel 4
+0674    18-04-2017 04:51:22    Alarm Stop            Motion Detect, Channel 4
+0675    18-04-2017 04:51:27    Alarm Start           Motion Detect, Channel 4
+0676    18-04-2017 04:51:27    Alarm Stop            Motion Detect, Channel 4
+0677    18-04-2017 04:55:11    Alarm Start           Motion Detect, Channel 4
+0678    18-04-2017 04:55:11    Alarm Stop            Motion Detect, Channel 4
+0679    18-04-2017 04:55:15    Alarm Start           Motion Detect, Channel 4
+0680    18-04-2017 04:55:16    Alarm Stop            Motion Detect, Channel 4
+0681    18-04-2017 04:56:18    Alarm Start           Motion Detect, Channel 4
+0682    18-04-2017 04:56:19    Alarm Stop            Motion Detect, Channel 4
+0683    18-04-2017 04:58:01    Alarm Start           Motion Detect, Channel 4
+0684    18-04-2017 04:58:02    Alarm Stop            Motion Detect, Channel 4
+0685    18-04-2017 05:02:00    Alarm Start           Motion Detect, Channel 4
+0686    18-04-2017 05:02:00    Alarm Stop            Motion Detect, Channel 4
+0687    18-04-2017 05:02:02    Log Out               admin<Xm030:0.0.0.0>
+0688    18-04-2017 05:07:48    Alarm Start           Motion Detect, Channel 3
+0689    18-04-2017 05:07:52    Alarm Stop            Motion Detect, Channel 3
+0690    18-04-2017 05:07:58    Alarm Start           Motion Detect, Channel 3
+0691    18-04-2017 05:08:01    Alarm Stop            Motion Detect, Channel 3
+0692    18-04-2017 05:17:25    Alarm Start           Motion Detect, Channel 4
+0693    18-04-2017 05:17:25    Alarm Stop            Motion Detect, Channel 4
+0694    18-04-2017 05:17:37    Alarm Start           Motion Detect, Channel 4
+0695    18-04-2017 05:17:38    Alarm Stop            Motion Detect, Channel 4
+0696    18-04-2017 05:31:44    Alarm Start           Motion Detect, Channel 4
+0697    18-04-2017 05:31:45    Alarm Stop            Motion Detect, Channel 4
+0698    18-04-2017 05:35:21    Alarm Start           Motion Detect, Channel 4
+0699    18-04-2017 05:35:21    Alarm Stop            Motion Detect, Channel 4
+0700    18-04-2017 05:35:24    Alarm Start           Motion Detect, Channel 4
+0701    18-04-2017 05:35:24    Alarm Stop            Motion Detect, Channel 4
+0702    18-04-2017 05:35:27    Alarm Start           Motion Detect, Channel 4
+0703    18-04-2017 05:35:27    Alarm Stop            Motion Detect, Channel 4
+0704    18-04-2017 05:36:09    Alarm Start           Motion Detect, Channel 4
+0705    18-04-2017 05:36:10    Alarm Stop            Motion Detect, Channel 4
+0706    18-04-2017 05:36:30    Alarm Start           Motion Detect, Channel 4
+0707    18-04-2017 05:36:31    Alarm Stop            Motion Detect, Channel 4
+0708    18-04-2017 05:36:34    Alarm Start           Motion Detect, Channel 4
+0709    18-04-2017 05:36:34    Alarm Stop            Motion Detect, Channel 4
+0710    18-04-2017 05:36:37    Alarm Start           Motion Detect, Channel 4
+0711    18-04-2017 05:36:37    Alarm Stop            Motion Detect, Channel 4
+0712    18-04-2017 05:39:25    Alarm Start           Motion Detect, Channel 4
+0713    18-04-2017 05:39:25    Alarm Stop            Motion Detect, Channel 4
+0714    18-04-2017 05:39:29    Alarm Start           Motion Detect, Channel 3
+0715    18-04-2017 05:39:33    Alarm Stop            Motion Detect, Channel 3
+0716    18-04-2017 05:39:39    Alarm Start           Motion Detect, Channel 3
+0717    18-04-2017 05:39:42    Alarm Stop            Motion Detect, Channel 3
+0718    18-04-2017 05:39:49    Alarm Start           Motion Detect, Channel 4
+0719    18-04-2017 05:39:49    Alarm Stop            Motion Detect, Channel 4
+0720    18-04-2017 05:39:51    Alarm Start           Motion Detect, Channel 4
+0721    18-04-2017 05:39:52    Alarm Stop            Motion Detect, Channel 4
+0722    18-04-2017 05:39:53    Alarm Start           Motion Detect, Channel 3
+0723    18-04-2017 05:39:54    Alarm Start           Motion Detect, Channel 4
+0724    18-04-2017 05:39:54    Alarm Stop            Motion Detect, Channel 4
+0725    18-04-2017 05:39:57    Alarm Stop            Motion Detect, Channel 3
+0726    18-04-2017 05:40:03    Alarm Start           Motion Detect, Channel 3
+0727    18-04-2017 05:40:05    Alarm Start           Motion Detect, Channel 2
+0728    18-04-2017 05:40:06    Alarm Stop            Motion Detect, Channel 2
+0729    18-04-2017 05:40:07    Alarm Stop            Motion Detect, Channel 3
+0730    18-04-2017 05:40:25    Alarm Start           Motion Detect, Channel 2
+0731    18-04-2017 05:40:25    Alarm Start           Motion Detect, Channel 3
+0732    18-04-2017 05:40:26    Alarm Stop            Motion Detect, Channel 2
+0733    18-04-2017 05:40:31    Alarm Stop            Motion Detect, Channel 3
+0734    18-04-2017 05:40:38    Alarm Start           Motion Detect, Channel 3
+0735    18-04-2017 05:40:41    Alarm Stop            Motion Detect, Channel 3
+0736    18-04-2017 05:40:51    Alarm Start           Motion Detect, Channel 4
+0737    18-04-2017 05:40:51    Alarm Stop            Motion Detect, Channel 4
+0738    18-04-2017 05:40:53    Alarm Start           Motion Detect, Channel 4
+0739    18-04-2017 05:40:53    Alarm Stop            Motion Detect, Channel 4
+0740    18-04-2017 05:40:55    Alarm Start           Motion Detect, Channel 4
+0741    18-04-2017 05:40:56    Alarm Stop            Motion Detect, Channel 4
+0742    18-04-2017 05:40:58    Alarm Start           Motion Detect, Channel 4
+0743    18-04-2017 05:40:58    Alarm Stop            Motion Detect, Channel 4
+0744    18-04-2017 05:41:00    Alarm Start           Motion Detect, Channel 4
+0745    18-04-2017 05:41:01    Alarm Stop            Motion Detect, Channel 4
+0746    18-04-2017 05:41:02    Alarm Start           Motion Detect, Channel 4
+0747    18-04-2017 05:41:03    Alarm Stop            Motion Detect, Channel 4
+0748    18-04-2017 05:41:04    Alarm Start           Motion Detect, Channel 4
+0749    18-04-2017 05:41:05    Alarm Stop            Motion Detect, Channel 4
+0750    18-04-2017 05:41:12    Alarm Start           Motion Detect, Channel 4
+0751    18-04-2017 05:41:13    Alarm Stop            Motion Detect, Channel 4
+0752    18-04-2017 05:41:14    Alarm Start           Motion Detect, Channel 4
+0753    18-04-2017 05:41:15    Alarm Stop            Motion Detect, Channel 4
+0754    18-04-2017 05:45:12    Alarm Start           Motion Detect, Channel 1
+0755    18-04-2017 05:45:12    Alarm Stop            Motion Detect, Channel 1
+0756    18-04-2017 05:48:24    Alarm Start           Motion Detect, Channel 4
+0757    18-04-2017 05:48:24    Alarm Stop            Motion Detect, Channel 4
+0758    18-04-2017 05:53:27    Alarm Start           Motion Detect, Channel 2
+0759    18-04-2017 05:53:27    Alarm Start           Motion Detect, Channel 3
+0760    18-04-2017 05:53:29    Alarm Stop            Motion Detect, Channel 2
+0761    18-04-2017 05:53:30    Alarm Stop            Motion Detect, Channel 3
+0762    18-04-2017 05:53:31    Alarm Start           Motion Detect, Channel 3
+0763    18-04-2017 05:53:38    Alarm Stop            Motion Detect, Channel 3
+0764    18-04-2017 05:53:44    Alarm Start           Motion Detect, Channel 3
+0765    18-04-2017 05:53:48    Alarm Stop            Motion Detect, Channel 3
+0766    18-04-2017 06:19:21    Alarm Start           Motion Detect, Channel 4
+0767    18-04-2017 06:19:23    Alarm Stop            Motion Detect, Channel 4
+0768    18-04-2017 06:20:18    Alarm Start           Motion Detect, Channel 4
+0769    18-04-2017 06:20:19    Alarm Stop            Motion Detect, Channel 4
+0770    18-04-2017 06:26:17    Log In                admin<Xm030:192.168.1.118>
+0771    18-04-2017 06:27:05    Log Out               admin<Xm030:192.168.1.118>
+0772    18-04-2017 06:27:54    Log In                admin<Web:0.0.0.0>
+0773    18-04-2017 06:28:01    Log In                admin<Web:0.0.0.0>
+0774    18-04-2017 06:28:02    Log Out               admin<Web:0.0.0.0>
