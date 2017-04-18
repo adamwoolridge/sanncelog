@@ -21,7 +21,8 @@ public class UICameraTimeline : MonoBehaviour
     public void Init(int ch, string channelName, WMG_Axis_Graph graph)
     {     
         channel = ch;
-        TextChannelName.text = channel + ". " + channelName;        
+        TextChannelName.text = channel + ". " + channelName;
+        TextChannelName.color = Colours[ch - 1];
 
         for (int i=0; i<24; i++)
         {
