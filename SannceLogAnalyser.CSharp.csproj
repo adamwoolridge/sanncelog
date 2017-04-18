@@ -82,6 +82,7 @@
     <Compile Include="Assets\Scripts\LogParser.cs" />
     <Compile Include="Assets\Scripts\UI\Daily\UICameraTimeline.cs" />
     <Compile Include="Assets\Scripts\UI\Daily\UIDailyOverview.cs" />
+    <Compile Include="Assets\Scripts\UI\Daily\UITimeBlock.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
