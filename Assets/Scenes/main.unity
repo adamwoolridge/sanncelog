@@ -2971,7 +2971,7 @@ MonoBehaviour:
   _AxisLabelSpaceOffset: 7
   _AxisLabelSpacing: 0
   _AxisLabelDistBetween: 0
-  _hideGrid: 1
+  _hideGrid: 0
   _hideTicks: 0
   _hideAxisLine: 0
   _AxisTitleString: 
@@ -4969,9 +4969,9 @@ MonoBehaviour:
   AxisLabelObjs: {fileID: 1087259364}
   _AxisMinValue: 0
   _AxisMaxValue: 20
-  _AxisNumTicks: 3
+  _AxisNumTicks: 20
   _MinAutoGrow: 0
-  _MaxAutoGrow: 0
+  _MaxAutoGrow: 1
   _MinAutoShrink: 0
   _MaxAutoShrink: 0
   _AxisLinePadding: 20
@@ -4998,7 +4998,7 @@ MonoBehaviour:
   _AxisLabelSpaceOffset: 7
   _AxisLabelSpacing: 0
   _AxisLabelDistBetween: 0
-  _hideGrid: 1
+  _hideGrid: 0
   _hideTicks: 0
   _hideAxisLine: 0
   _AxisTitleString: 
@@ -5662,30 +5662,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _pointValues:
-  - {x: 1, y: 3}
-  - {x: 2, y: 4}
-  - {x: 3, y: 5}
-  - {x: 4, y: 6}
-  - {x: 5, y: 7}
-  - {x: 6, y: 8}
-  - {x: 7, y: 9}
-  - {x: 8, y: 10}
-  - {x: 9, y: 11}
-  - {x: 10, y: 12}
-  - {x: 11, y: 13}
+  - {x: 0, y: 5}
+  - {x: 1, y: 4}
+  - {x: 2, y: 5}
+  - {x: 3, y: 6}
+  - {x: 4, y: 7}
+  - {x: 5, y: 8}
+  - {x: 6, y: 9}
+  - {x: 7, y: 10}
+  - {x: 8, y: 11}
+  - {x: 9, y: 12}
+  - {x: 10, y: 13}
+  - {x: 11, y: 14}
   - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
-  - {x: 12, y: 14}
+  - {x: 13, y: 14}
+  - {x: 14, y: 14}
+  - {x: 15, y: 14}
+  - {x: 16, y: 14}
+  - {x: 17, y: 14}
+  - {x: 18, y: 14}
+  - {x: 19, y: 14}
+  - {x: 20, y: 14}
+  - {x: 21, y: 14}
+  - {x: 22, y: 14}
+  - {x: 23, y: 14}
   _pointColors: []
   dataLabelPrefab: {fileID: 100000, guid: 583ce437aae791741a4c0b267ffa466b, type: 2}
   dataLabelsParent: {fileID: 128203717}
