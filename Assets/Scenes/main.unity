@@ -333,6 +333,7 @@ GameObject:
   - component: {fileID: 162455116}
   - component: {fileID: 162455115}
   - component: {fileID: 162455114}
+  - component: {fileID: 162455113}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -340,6 +341,17 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &162455113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 162455112}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2360c718919d68b4491d599642aa1be0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!81 &162455114
 AudioListener:
   m_ObjectHideFlags: 0
@@ -5014,7 +5026,7 @@ Prefab:
     - target: {fileID: 224897789670630268, guid: ae4bce72221b00f43993a725bb43505c,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 960
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224897789670630268, guid: ae4bce72221b00f43993a725bb43505c,
         type: 2}
@@ -5039,7 +5051,7 @@ Prefab:
     - target: {fileID: 224897789670630268, guid: ae4bce72221b00f43993a725bb43505c,
         type: 2}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224897789670630268, guid: ae4bce72221b00f43993a725bb43505c,
         type: 2}
@@ -5049,7 +5061,7 @@ Prefab:
     - target: {fileID: 224897789670630268, guid: ae4bce72221b00f43993a725bb43505c,
         type: 2}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224897789670630268, guid: ae4bce72221b00f43993a725bb43505c,
         type: 2}

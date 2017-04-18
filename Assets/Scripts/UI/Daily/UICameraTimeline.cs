@@ -34,7 +34,7 @@ public class UICameraTimeline : MonoBehaviour
         graphSeries.lineColor = Colours[ch - 1];
     }
 
-    public void Show(DateTime date)
+    public int Show(DateTime date)
     {
         List<Vector2> seriesData = new List<Vector2>();
 
@@ -50,6 +50,8 @@ public class UICameraTimeline : MonoBehaviour
             i++;
         }
 
+        int highest = 0;
+
         if (entries != null)
         {            
             foreach (LogMotionEntry entry in entries)
@@ -60,13 +62,18 @@ public class UICameraTimeline : MonoBehaviour
 
                     TimeBlockParent.GetChild(index).transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);
                     Vector2 sd = seriesData[index];
-                    sd.y = TimeBlockParent.GetChild(index).GetComponent<UITimeBlock>().IncreaseTriggerCount();
-                    seriesData[index] = sd;                    
+                    sd.y = TimeBlockParent.GetChild(index).GetComponent<UITimeBlock>().IncreaseTriggerCount(Colours[channel-1]);                    
+                    seriesData[index] = sd;
+
+                    if ((int)sd.y > highest)
+                        highest = (int)sd.y;
                 }               
             }
         }
 
         graphSeries.UseXDistBetweenToSpace = true;
         graphSeries.pointValues.SetList(seriesData);
+
+        return highest;
     }
 }

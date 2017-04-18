@@ -32,10 +32,17 @@ public class UIDailyOverview : MonoBehaviour {
     {
         TextCurrentDate.text = date.ToString("dd / MM / yyyy");
 
+        int highest = 0;
+
         foreach (UICameraTimeline ct in CameraTimeLines)
         {
-            ct.Show(currentDay);
+            int high = ct.Show(currentDay);
+
+            if (high > highest)
+                highest = high;
         }
+
+        Graph.yAxis.AxisMaxValue = highest > 0 ? highest : 10;        
     }
 
 	// Update is called once per frame

@@ -79,14 +79,14 @@
     <Reference Include="DOTween">
       <HintPath>Assets\Graph_Maker\DOTween\DOTween.dll</HintPath>
     </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\Graph_Maker\DOTween\DOTween43.dll</HintPath>
+    </Reference>
     <Reference Include="DOTween46">
       <HintPath>Assets\Graph_Maker\DOTween\DOTween46.dll</HintPath>
     </Reference>
     <Reference Include="DOTween50">
       <HintPath>Assets\Graph_Maker\DOTween\DOTween50.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>Assets\Graph_Maker\DOTween\DOTween43.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -136,6 +136,7 @@
     <Compile Include="Assets\Graph_Maker\Scripts\WMG_Pie_Graph_Slice.cs" />
     <Compile Include="Assets\Graph_Maker\Scripts\WMG_Ring.cs" />
     <Compile Include="Assets\Graph_Maker\Scripts\WMG_Series.cs" />
+    <Compile Include="Assets\Scripts\AlarmServer.cs" />
     <Compile Include="Assets\Scripts\LogMotionEntry.cs" />
     <Compile Include="Assets\Scripts\LogParser.cs" />
     <Compile Include="Assets\Scripts\UI\Daily\UICameraTimeline.cs" />
