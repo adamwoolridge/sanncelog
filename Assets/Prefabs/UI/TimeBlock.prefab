@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 222921422321650912}
   - component: {fileID: 114058072530174670}
   - component: {fileID: 114602853971731016}
+  - component: {fileID: 225274648594441312}
   m_Layer: 0
   m_Name: TextTriggerCount
   m_TagString: Untagged
@@ -272,6 +273,17 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 60, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &225274648594441312
+CanvasGroup:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1519353605479878}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
 --- !u!225 &225289785534159178
 CanvasGroup:
   m_ObjectHideFlags: 1

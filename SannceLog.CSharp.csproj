@@ -136,6 +136,7 @@
     <Compile Include="Assets\Graph_Maker\Scripts\WMG_Pie_Graph_Slice.cs" />
     <Compile Include="Assets\Graph_Maker\Scripts\WMG_Ring.cs" />
     <Compile Include="Assets\Graph_Maker\Scripts\WMG_Series.cs" />
+    <Compile Include="Assets\Scripts\AlarmServer.cs" />
     <Compile Include="Assets\Scripts\LogMotionEntry.cs" />
     <Compile Include="Assets\Scripts\LogParser.cs" />
     <Compile Include="Assets\Scripts\UI\Daily\UICameraTimeline.cs" />

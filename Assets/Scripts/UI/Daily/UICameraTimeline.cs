@@ -72,7 +72,9 @@ public class UICameraTimeline : MonoBehaviour
                         highest = (int)sd.y;
 
                     if (entry.duration > 5)
-                        timeBLock.ShowAlert();
+                    {
+                        timeBLock.AddAlert(entry);
+                    }
                 }               
             }
         }

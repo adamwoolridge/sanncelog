@@ -47,17 +47,17 @@ public class UIDailyOverview : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown(KeyCode.LeftArrow))
+		if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetAxis("Mouse ScrollWheel") > 0f)
         {
             currentDay = currentDay.Date.AddDays(-1);
             ShowDay(currentDay);
         }
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetAxis("Mouse ScrollWheel") < 0f)
         {
             currentDay = currentDay.Date.AddDays(1);
             ShowDay(currentDay);
         }
-        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.DownArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.DownArrow) || Input.GetMouseButtonDown(2))
         {
             currentDay = DateTime.Now.Date;
             ShowDay(currentDay);
