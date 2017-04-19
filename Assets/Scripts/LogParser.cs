@@ -50,10 +50,16 @@ public static class LogParser
 
                     if (!openChannelLogs.TryGetValue(channel, out lme))
                     {
-                        lme = new LogMotionEntry();
-                        lme.start = DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);
-                        lme.channel = channel;
-                        openChannelLogs.Add(channel, lme);
+                        DateTime startTime =  DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);
+
+                        if (!EntryExists(channel, startTime, true))
+                        {
+                            lme = new LogMotionEntry();
+                            lme.start = startTime;
+                            lme.channel = channel;
+                            openChannelLogs.Add(channel, lme);
+                        }
+                        
                     }
                 }
                 else if (splitStrings[2] == "Alarm Stop")
@@ -61,36 +67,41 @@ public static class LogParser
                     int channel = int.Parse((splitStrings[3])[splitStrings[3].Length-1].ToString());
                     LogMotionEntry lme;
 
-                    if (openChannelLogs.TryGetValue(channel, out lme))
-                    {
-                        lme.end = DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);
-                        lme.duration = (lme.end - lme.start).Seconds;
-                        openChannelLogs.Remove(channel);
-                    }
+                    DateTime endTime = DateTime.ParseExact(splitStrings[1], "dd-MM-yyyy HH:mm:ss", null);
 
-                    if (lme != null)
+                    if (!EntryExists(channel, endTime, false))
                     {
-                        List<LogMotionEntry> channelEntries;
-
-                        if (!channelLogs.TryGetValue(channel, out channelEntries))
+                        if (openChannelLogs.TryGetValue(channel, out lme))
                         {
-                            channelEntries = new List<LogMotionEntry>();
-                            channelLogs.Add(channel, channelEntries);
+                            lme.end = endTime;
+                            lme.duration = (lme.end - lme.start).Seconds;
+                            openChannelLogs.Remove(channel);
                         }
 
-                        channelEntries.Add(lme);
-                        combinedLogs.Add(lme);
-
-                        List<LogMotionEntry> dailyList;
-
-                        if (!dailyLogs.TryGetValue(lme.start.Date, out dailyList))
+                        if (lme != null)
                         {
-                            dailyList = new List<LogMotionEntry>();
-                            dailyLogs.Add(lme.start.Date, dailyList);
-                        }
+                            List<LogMotionEntry> channelEntries;
 
-                        dailyList.Add(lme);
-                    }
+                            if (!channelLogs.TryGetValue(channel, out channelEntries))
+                            {
+                                channelEntries = new List<LogMotionEntry>();
+                                channelLogs.Add(channel, channelEntries);
+                            }
+
+                            channelEntries.Add(lme);
+                            combinedLogs.Add(lme);
+
+                            List<LogMotionEntry> dailyList;
+
+                            if (!dailyLogs.TryGetValue(lme.start.Date, out dailyList))
+                            {
+                                dailyList = new List<LogMotionEntry>();
+                                dailyLogs.Add(lme.start.Date, dailyList);
+                            }
+
+                            dailyList.Add(lme);
+                        }
+                    }                   
                 }
             }
         }
@@ -105,6 +116,28 @@ public static class LogParser
             Debug.Log("First entry: " + combinedLogs[0].start);
             Debug.Log("Last entry: " + combinedLogs[combinedLogs.Count - 1].start);
         }
+    }
+
+    public static bool EntryExists(int channel, DateTime time, bool start)
+    {
+
+        List<LogMotionEntry> entries;
+
+        if (!channelLogs.TryGetValue(channel, out entries))
+            return false;
+
+        if (start)
+        {
+            if (entries.Any(i => i.start == time))
+                return true;
+        }
+        else
+        {
+            if (entries.Any(i => i.end == time))
+                return true;
+        }
+
+        return false;
     }
 
     public static List<LogMotionEntry> GetDailyLogs(DateTime date)
